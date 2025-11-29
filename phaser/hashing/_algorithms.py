@@ -3,7 +3,7 @@ import imagehash
 import pdqhash
 import numpy as np
 import os
-import onnxruntime # neuralhash
+# import onnxruntime # neuralhash
 
 
 class PerceptualHash(ABC):
